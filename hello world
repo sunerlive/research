@@ -1,0 +1,1 @@
+Merge，字面翻译为合并，解决完冲突，执行 add 和 commit 操作，此时会产生一个额外的 commit。
